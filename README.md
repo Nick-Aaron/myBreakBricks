@@ -1,4 +1,5 @@
 # myBreakBricks
+`世界你好`\
 A clone of break bricks games by python and pygame\
 GNU/Linux:\
 ![image0](https://github.com/Nick-Aaron/myBreakBricks/blob/master/preview_linux.png)\
